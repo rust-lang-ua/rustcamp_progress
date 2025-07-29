@@ -1,4 +1,4 @@
-2025/07/29 at **14:50**
+2025/07/29 at **12:06**
 ### M1
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -58,6 +58,3 @@
 |11|Yevhen P.|❌|❌|❌|❌|❌|❌|❌|0/43|
 |12|Yevhen S.|❌|❌|❌|❌|❌|❌|❌|0/43|
 |Average|||||||||0|
-
-### Statistics on the average delay of mentors
-![statistic of average delay](https://docs.google.com/spreadsheets/d/dfsdfgsdfsdfsf/edit#gid=0)
