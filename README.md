@@ -1,4 +1,4 @@
-2025/08/10 at **08:00**
+2025/08/10 at **09:00**
 ### M1
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -46,16 +46,16 @@
 |1|Andrii F.|✅|🔄|❌|❌|❌|❌|❌|2/43|
 |2|Eugene S.|✅|❌|❌|❌|❌|❌|❌|1/43|
 |3|Illia T.|✅|🔄|❌|❌|❌|❌|❌|2/43|
-|4|Oleksandr K.|✅|🔄|❌|❌|❌|❌|❌|5/43|
+|4|Oleksandr K.|✅|🔄|❌|❌|❌|❌|❌|6/43|
 |5|Oleksii Z.|✅|🔄|❌|❌|❌|❌|❌|2/43|
 |6|Pavlo M.|✅|🔄|❌|❌|❌|❌|❌|4/43|
 |7|Roman P.|✅|🔄|❌|❌|❌|❌|❌|5/43|
 |8|Serhii S.|✅|🔄|❌|❌|❌|❌|❌|2/43|
 |9|Vitaliy C.|✅|🔄|❌|❌|❌|❌|❌|2/43|
 |10|Vyacheslav O.|✅|🔄|❌|❌|❌|❌|❌|3/43|
-|11|Yevhen P.|✅|🔄|❌|❌|❌|❌|❌|5/43|
+|11|Yevhen P.|✅|🔄|❌|❌|❌|❌|❌|7/43|
 |12|Yevhen S.|✅|❌|❌|❌|❌|❌|❌|1/43|
-|Average|||||||||2|
+|Average|||||||||3|
 
 ### Statistics on the average delay of mentors
 ![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
