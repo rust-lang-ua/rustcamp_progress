@@ -1,4 +1,4 @@
-2025/08/11 at **16:00**
+2025/08/11 at **17:00**
 ### M1
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -53,9 +53,9 @@
 |8|Serhii S.|✅|🔄|❌|❌|❌|❌|❌|3/43|
 |9|Vitaliy C.|✅|🔄|❌|❌|❌|❌|❌|3/43|
 |10|Vyacheslav O.|✅|🔄|❌|❌|❌|❌|❌|4/43|
-|11|Yevhen P.|✅|🔄|❌|❌|❌|❌|❌|9/43|
+|11|Yevhen P.|✅|🔄|❌|❌|❌|❌|❌|10/43|
 |12|Yevhen S.|✅|🔄|❌|❌|❌|❌|❌|3/43|
-|Average|||||||||4|
+|Average|||||||||5|
 
 ### Statistics on the average delay of mentors
 ![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
