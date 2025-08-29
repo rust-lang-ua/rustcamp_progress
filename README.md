@@ -1,4 +1,4 @@
-2025/08/29 at **08:00**
+2025/08/29 at **09:00**
 ### M1
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -40,11 +40,11 @@
 |4|Oleksii Z.|✅|✅|🔄|❌|❌|❌|❌|15/43|
 |5|Pavlo M.|✅|✅|✅|❌|❌|❌|❌|18/43|
 |6|Roman P.|✅|✅|✅|❌|❌|❌|❌|18/43|
-|7|Serhii S.|✅|✅|🔄|❌|❌|❌|❌|15/43|
+|7|Serhii S.|✅|✅|✅|❌|❌|❌|❌|18/43|
 |8|Vitaliy C.|✅|✅|✅|❌|❌|❌|❌|18/43|
 |9|Vyacheslav O.|✅|✅|✅|❌|❌|❌|❌|18/43|
 |10|Yevhen P.|✅|✅|✅|❌|❌|❌|❌|18/43|
-|Average|||||||||16|
+|Average|||||||||17|
 
 ### Statistics on the average delay of mentors
 ![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
