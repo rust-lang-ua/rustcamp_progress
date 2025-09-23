@@ -1,4 +1,4 @@
-2025/09/23 at **14:35**
+2025/09/23 at **12:00**
 ### M12
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -15,19 +15,6 @@
 |11|Serhii M.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |12|Vitaliy B.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |Average|||||||||30|
-### ML
-|№|Name|0|1|2|3|4|5|6|Total|
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|1|Artem D.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|2|Dmytro K.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|3|Illia T.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|4|Kyrylo V.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|5|Mark F.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|6|Oleh T.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|7|Serhii K.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|8|Vitaliy B.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|9|Vitaliy K.|❌|❌|❌|❌|❌|❌|❌|0/35|
-|Average|||||||||0|
 ### E12
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -46,3 +33,6 @@
 |13|Vyacheslav O.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |14|Yevhen P.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |Average|||||||||29|
+
+### Statistics on the average delay of mentors
+![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
