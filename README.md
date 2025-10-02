@@ -1,4 +1,4 @@
-2025/10/02 at **16:00**
+2025/10/02 at **17:00**
 ### M12
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -41,8 +41,8 @@
 |10|Vitaliy C.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |11|Volodymyr K.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |12|Vyacheslav O.|✅|✅|✅|✅|❌|❌|❌|30/43|
-|13|Yevhen P.|✅|✅|✅|✅|🔄|❌|❌|32/43|
-|Average|||||||||30|
+|13|Yevhen P.|✅|✅|✅|✅|✅|❌|❌|35/43|
+|Average|||||||||31|
 
 ### Statistics on the average delay of mentors
 ![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
