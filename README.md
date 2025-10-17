@@ -1,4 +1,4 @@
-2025/10/17 at **17:00**
+2025/10/17 at **18:00**
 ### M12
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -27,7 +27,7 @@
 ### E12
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|1|Ihor K.|✅|✅|✅|✅|✅|❌|❌|35/43|
+|1|Ihor K.|✅|✅|✅|✅|✅|🔄|❌|40/43|
 |2|Illia T.|✅|✅|✅|✅|❌|❌|❌|30/43|
 |3|Oleksandr H.|✅|✅|✅|✅|✅|❌|❌|35/43|
 |4|Oleksandr K.|✅|✅|✅|✅|✅|🔄|❌|36/43|
@@ -40,7 +40,7 @@
 |11|Volodymyr K.|✅|✅|✅|✅|✅|❌|❌|35/43|
 |12|Vyacheslav O.|✅|✅|✅|✅|✅|🔄|❌|37/43|
 |13|Yevhen P.|✅|✅|✅|✅|✅|❌|❌|35/43|
-|Average|||||||||33|
+|Average|||||||||34|
 
 ### Statistics on the average delay of mentors
 ![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
