@@ -1,4 +1,4 @@
-2026/03/31 at **05:00**
+2026/03/31 at **06:00**
 ### E12
 |№|Name|0|1|2|3|4|5|6|Total|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -8,8 +8,8 @@
 |4|Oleksandr B.|✅|✅|✅|✅|✅|🔄|❌|37/43|
 |5|Volodymyr L.|✅|✅|✅|✅|✅|❌|❌|35/43|
 |6|Yehor S.|✅|✅|✅|✅|✅|🔄|❌|36/43|
-|7|Yevhenii H.|✅|✅|✅|✅|✅|🔄|❌|36/43|
-|Average|||||||||35|
+|7|Yevhenii H.|✅|✅|✅|✅|✅|🔄|❌|39/43|
+|Average|||||||||36|
 
 ### Statistics on the average delay of mentors
 ![statistic of average delay](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRGxaJWiz7gJtvcjwtHPyyd5ju-BPGGEvp5XTIwGS92XWrY8xHYajrexYFqIVDSJIX7LGb8XaB6X3S/pubchart?oid=1439917493&format=image)
